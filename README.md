@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# 🌦️ React Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple and responsive **Weather App** built with **React.js**. It allows users to check real-time weather information for any city using the **OpenWeatherMap API**.
+
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 🚀 Features
+
+- Search weather by city name
+- Displays temperature, weather condition, humidity, and wind speed
+- Uses real-time data from OpenWeatherMap
+
+## Install dependencies
+
+npm install
+
+##Get a free API key from OpenWeatherMap
+
+>Create a .env file in the root directory and add your API key like this:
+REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 ## Available Scripts
 
