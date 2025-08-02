@@ -14,7 +14,7 @@ This is a simple and responsive **Weather App** built with **React.js**. It allo
 
 npm install
 
-##Get a free API key from OpenWeatherMap
+Get a free API key from OpenWeatherMap
 
 >Create a .env file in the root directory and add your API key like this:
 REACT_APP_WEATHER_API_KEY=your_api_key_here
